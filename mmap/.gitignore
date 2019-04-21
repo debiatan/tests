@@ -1,0 +1,4 @@
+*.swp
+test_mmap_decommit
+test_mmap_swap
+test_mmap_swap_unused_memory
